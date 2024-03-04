@@ -1,0 +1,51 @@
+.container{
+    height: 450px;
+    width: 250px;
+    border: 1px solid black;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: bisque;
+
+
+}
+
+p{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: large;
+    font-weight: bold;
+}
+
+#calbut{
+    height: 40px;
+    width: 120px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#result{
+    height: 40px;
+    width: 60px;
+    border: 1px solid black;
+    margin-top: 15px;
+    background-color: whitesmoke;
+    
+}
+#message{
+    height: 40px;
+    width: 100px;
+    margin-top: 15px;
+    color: red;
+    font-weight: bold;
+    /* background-color: whitesmoke; */
+    
+}
+
+#weight-guide{
+    margin-top: 80px;
+    font-weight: lighter;
+}
